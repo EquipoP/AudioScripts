@@ -2,7 +2,7 @@
 Comment[en_US]=Cambia la salida de audio
 Comment=Cambia la salida de audio
 Encoding=UTF-8
-Exec=~/Internal/AudioScripts/RotAudio.sh
+Exec=RotAudio.sh
 GenericName[en_US]=
 GenericName=
 Icon=kmix

@@ -2,7 +2,7 @@
 Comment[en_US]=Cambia la salida de audio de HDMI a Analog Duplex y viceversa
 Comment=Cambia la salida de audio de HDMI a Analog Duplex y viceversa
 Encoding=UTF-8
-Exec=~/Internal/AudioScripts/SwapAudio.sh
+Exec=SwapAudio.sh
 GenericName[en_US]=
 GenericName=
 Icon=bittorrent-sync
